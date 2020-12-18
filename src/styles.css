@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+.router-container{
+    position: relative;
+}
+
+.router-container > * {
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+body{
+    overflow-x: hidden;
+}
